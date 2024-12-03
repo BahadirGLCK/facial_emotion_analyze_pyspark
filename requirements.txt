@@ -1,0 +1,6 @@
+#pyspark
+opencv-python
+scikit-learn
+pandas
+matplotlib
+seaborn
