@@ -1,0 +1,108 @@
+2024-12-03 23:08:08,717 - WARNING - Metadata file not found: data/facescrub_actors.txt
+2024-12-03 23:08:08,717 - WARNING - Metadata file not found: data/facescrub_actresses.txt
+2024-12-03 23:08:08,717 - INFO - Image downloads completed for all files!
+2024-12-03 23:08:52,819 - INFO - Loading metadata from data/facescrub_actors.txt...
+2024-12-03 23:08:55,776 - INFO - Starting image downloads for data/facescrub_actors.txt...
+2024-12-03 23:08:56,692 - INFO - Downloaded 1 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:08:56,797 - INFO - Downloaded 2 for Aaron_Eckhart: failed: HTTPConnectionPool(host='movies.dosthana.com', port=80): Max retries exceeded with url: /sites/default/files/image-gallery/Aaron-Eckhart-Image.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327b79cd0>: Failed to resolve 'movies.dosthana.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:08:57,103 - INFO - Downloaded 3 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:08:57,780 - INFO - Downloaded 4 for Aaron_Eckhart: success
+2024-12-03 23:08:58,106 - INFO - Downloaded 5 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:08:58,543 - INFO - Downloaded 6 for Aaron_Eckhart: success
+2024-12-03 23:08:59,031 - INFO - Downloaded 7 for Aaron_Eckhart: success
+2024-12-03 23:08:59,680 - INFO - Downloaded 8 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:09:00,488 - INFO - Downloaded 9 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:09:00,492 - INFO - Downloaded 10 for Aaron_Eckhart: failed: HTTPConnectionPool(host='movies.dosthana.com', port=80): Max retries exceeded with url: /sites/default/files/image-gallery/Aaron-Eckhart-Photos.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327b9e280>: Failed to resolve 'movies.dosthana.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:09:01,157 - INFO - Downloaded 11 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:09:01,710 - INFO - Downloaded 12 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:09:05,888 - INFO - Downloaded 13 for Aaron_Eckhart: success
+2024-12-03 23:09:06,297 - INFO - Downloaded 14 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:09:06,738 - INFO - Downloaded 15 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:09:07,388 - INFO - Downloaded 16 for Aaron_Eckhart: success
+2024-12-03 23:09:07,639 - INFO - Downloaded 17 for Aaron_Eckhart: success
+2024-12-03 23:09:08,499 - INFO - Downloaded 18 for Aaron_Eckhart: success
+2024-12-03 23:09:08,617 - INFO - Downloaded 19 for Aaron_Eckhart: success
+2024-12-03 23:09:08,998 - INFO - Downloaded 20 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:09:11,361 - INFO - Downloaded 21 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:09:12,577 - INFO - Downloaded 23 for Aaron_Eckhart: success
+2024-12-03 23:09:13,990 - INFO - Downloaded 24 for Aaron_Eckhart: success
+2024-12-03 23:09:14,609 - INFO - Downloaded 25 for Aaron_Eckhart: success
+2024-12-03 23:09:15,102 - INFO - Downloaded 26 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:09:15,270 - INFO - Downloaded 27 for Aaron_Eckhart: failed: HTTPConnectionPool(host='www.jourdangibson.com', port=80): Max retries exceeded with url: /wp-content/uploads/2010/08/aaron-eckhart.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x16f4e6220>: Failed to resolve 'www.jourdangibson.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:09:15,633 - INFO - Downloaded 28 for Aaron_Eckhart: success
+2024-12-03 23:09:16,645 - INFO - Downloaded 31 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:09:16,959 - INFO - Downloaded 33 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:09:18,620 - INFO - Downloaded 35 for Aaron_Eckhart: success
+2024-12-03 23:09:18,783 - INFO - Downloaded 36 for Aaron_Eckhart: failed: HTTPConnectionPool(host='wallpoper.com', port=80): Max retries exceeded with url: /images/00/36/20/67/aaron-eckhart_00362067.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327b9eb20>: Failed to resolve 'wallpoper.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:09:19,157 - INFO - Downloaded 37 for Aaron_Eckhart: success
+2024-12-03 23:09:19,652 - INFO - Downloaded 38 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:09:19,970 - INFO - Downloaded 39 for Aaron_Eckhart: success
+2024-12-03 23:09:20,368 - INFO - Downloaded 40 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:09:21,676 - INFO - Downloaded 42 for Aaron_Eckhart: success
+2024-12-03 23:09:21,990 - INFO - Downloaded 43 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:09:23,034 - INFO - Downloaded 46 for Aaron_Eckhart: success
+2024-12-03 23:09:23,543 - INFO - Downloaded 47 for Aaron_Eckhart: failed: HTTPConnectionPool(host='www2.pictures.zimbio.com', port=80): Max retries exceeded with url: /bg/Aaron%252BEckhart%252BBattle%252BLos%252BAngeles%252BPremiere%252B0MLiKI4ovVwl.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327bc17f0>: Failed to resolve 'www2.pictures.zimbio.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:09:23,904 - INFO - Downloaded 48 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:10:39,058 - INFO - Downloaded 49 for Aaron_Eckhart: failed: HTTPConnectionPool(host='celebrityphotos.sheknows.com', port=80): Max retries exceeded with url: /wp-content/uploads//2010/11/aaron-eckhart-governors-awards.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x327b9e700>: Failed to establish a new connection: [Errno 60] Operation timed out'))
+2024-12-03 23:10:39,835 - INFO - Downloaded 50 for Aaron_Eckhart: success
+2024-12-03 23:10:41,601 - INFO - Downloaded 51 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:10:42,293 - INFO - Downloaded 53 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:10:42,724 - INFO - Downloaded 54 for Aaron_Eckhart: success
+2024-12-03 23:10:42,748 - INFO - Downloaded 55 for Aaron_Eckhart: failed: HTTPConnectionPool(host='www4.images.coolspotters.com', port=80): Max retries exceeded with url: /photos/209431/aaron-eckhart-profile.png (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327b9eb20>: Failed to resolve 'www4.images.coolspotters.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:10:43,616 - INFO - Downloaded 56 for Aaron_Eckhart: success
+2024-12-03 23:10:43,672 - INFO - Downloaded 57 for Aaron_Eckhart: failed: HTTPConnectionPool(host='cdn2-www.craveonline.com', port=80): Max retries exceeded with url: /assets/uploads/2013/03/Aaron-Eckhart-Olympus-Has-Fallen-e1363851953493.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327bb8670>: Failed to resolve 'cdn2-www.craveonline.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:10:44,030 - INFO - Downloaded 58 for Aaron_Eckhart: success
+2024-12-03 23:10:44,770 - INFO - Downloaded 60 for Aaron_Eckhart: success
+2024-12-03 23:10:45,068 - INFO - Downloaded 61 for Aaron_Eckhart: success
+2024-12-03 23:10:45,333 - INFO - Downloaded 63 for Aaron_Eckhart: success
+2024-12-03 23:10:45,690 - INFO - Downloaded 64 for Aaron_Eckhart: success
+2024-12-03 23:10:46,118 - INFO - Downloaded 66 for Aaron_Eckhart: success
+2024-12-03 23:10:46,528 - INFO - Downloaded 67 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:10:47,323 - INFO - Downloaded 68 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:10:47,768 - INFO - Downloaded 69 for Aaron_Eckhart: failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-12-03 23:10:48,437 - INFO - Downloaded 71 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:10:48,492 - INFO - Downloaded 72 for Aaron_Eckhart: failed: HTTPConnectionPool(host='www.yeshairstyles.com', port=80): Max retries exceeded with url: /wp-content/gallery/aaron-eckhart-pictures/aaron-eckhart-9.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327b9e850>: Failed to resolve 'www.yeshairstyles.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:10:48,599 - INFO - Downloaded 73 for Aaron_Eckhart: success
+2024-12-03 23:10:49,137 - INFO - Downloaded 74 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:10:50,090 - INFO - Downloaded 75 for Aaron_Eckhart: success
+2024-12-03 23:10:50,300 - INFO - Downloaded 76 for Aaron_Eckhart: success
+2024-12-03 23:10:50,368 - INFO - Downloaded 77 for Aaron_Eckhart: failed: HTTPConnectionPool(host='content6.flixster.com', port=80): Max retries exceeded with url: /rtactor/40/70/40708_pro.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327bc19d0>: Failed to resolve 'content6.flixster.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:10:50,437 - INFO - Downloaded 78 for Aaron_Eckhart: failed: HTTPConnectionPool(host='www.menstylepower.com', port=80): Max retries exceeded with url: /wp-content/uploads/2011/08/hair_aaron-eckhart.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327bcfcd0>: Failed to resolve 'www.menstylepower.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:10:50,644 - INFO - Downloaded 79 for Aaron_Eckhart: success
+2024-12-03 23:10:51,227 - INFO - Downloaded 80 for Aaron_Eckhart: success
+2024-12-03 23:10:51,647 - INFO - Downloaded 81 for Aaron_Eckhart: success
+2024-12-03 23:10:52,210 - INFO - Downloaded 82 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:10:53,619 - INFO - Downloaded 83 for Aaron_Eckhart: success
+2024-12-03 23:10:53,703 - INFO - Downloaded 85 for Aaron_Eckhart: failed: HTTPConnectionPool(host='blogs.coventrytelegraph.net', port=80): Max retries exceeded with url: /thegeekfiles/aaroneck.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x16f4e6490>: Failed to resolve 'blogs.coventrytelegraph.net' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:10:53,908 - INFO - Downloaded 86 for Aaron_Eckhart: success
+2024-12-03 23:10:54,302 - INFO - Downloaded 87 for Aaron_Eckhart: success
+2024-12-03 23:10:54,977 - INFO - Downloaded 88 for Aaron_Eckhart: success
+2024-12-03 23:10:55,173 - INFO - Downloaded 89 for Aaron_Eckhart: success
+2024-12-03 23:10:55,799 - INFO - Downloaded 90 for Aaron_Eckhart: success
+2024-12-03 23:10:56,358 - INFO - Downloaded 93 for Aaron_Eckhart: success
+2024-12-03 23:10:56,503 - INFO - Downloaded 94 for Aaron_Eckhart: success
+2024-12-03 23:10:56,739 - INFO - Downloaded 95 for Aaron_Eckhart: success
+2024-12-03 23:10:57,154 - INFO - Downloaded 99 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:10:58,025 - INFO - Downloaded 102 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:10:58,441 - INFO - Downloaded 104 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:10:58,622 - INFO - Downloaded 105 for Aaron_Eckhart: failed: HTTP 530
+2024-12-03 23:10:59,153 - INFO - Downloaded 108 for Aaron_Eckhart: success
+2024-12-03 23:10:59,304 - INFO - Downloaded 109 for Aaron_Eckhart: failed: HTTP 530
+2024-12-03 23:10:59,779 - INFO - Downloaded 110 for Aaron_Eckhart: success
+2024-12-03 23:11:00,438 - INFO - Downloaded 112 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:11:01,828 - INFO - Downloaded 113 for Aaron_Eckhart: success
+2024-12-03 23:11:02,183 - INFO - Downloaded 114 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:11:02,259 - INFO - Downloaded 116 for Aaron_Eckhart: failed: HTTPConnectionPool(host='snarkerati.com', port=80): Max retries exceeded with url: /movie-news/files/2013/09/Aaron-Eckhart-2013.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327b9e970>: Failed to resolve 'snarkerati.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:11:02,361 - INFO - Downloaded 117 for Aaron_Eckhart: failed: HTTPConnectionPool(host='cdn.evilbeetgossip.com', port=80): Max retries exceeded with url: /wp-content/uploads/2007/06/aaron_eckhart.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327b79c10>: Failed to resolve 'cdn.evilbeetgossip.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:11:02,784 - INFO - Downloaded 118 for Aaron_Eckhart: failed: HTTPConnectionPool(host='www3.pictures.zimbio.com', port=80): Max retries exceeded with url: /bg/Battle%252BLos%252BAngeles%252BPremiere%252BJBorqEZm9UAl.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327bc1ac0>: Failed to resolve 'www3.pictures.zimbio.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:11:03,059 - INFO - Downloaded 120 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:11:03,933 - INFO - Downloaded 122 for Aaron_Eckhart: success
+2024-12-03 23:11:05,535 - INFO - Downloaded 123 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:11:05,854 - INFO - Downloaded 124 for Aaron_Eckhart: failed: HTTP 404
+2024-12-03 23:11:07,017 - INFO - Downloaded 126 for Aaron_Eckhart: failed: HTTP 403
+2024-12-03 23:11:07,021 - INFO - Downloaded 129 for Aaron_Eckhart: failed: HTTPConnectionPool(host='www.yeshairstyles.com', port=80): Max retries exceeded with url: /wp-content/gallery/aaron-eckhart-pictures/aaron-eckhart-style-7.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327bb8400>: Failed to resolve 'www.yeshairstyles.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:11:07,684 - INFO - Downloaded 130 for Aaron_Eckhart: failed: HTTPConnectionPool(host='www3.pictures.gi.zimbio.com', port=80): Max retries exceeded with url: /Aaron%252BEckhart%252B63rd%252BVenice%252BFilm%252BFestival%252BBlack%252BjOSDo-Ws6d9l.jpg (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x327bdb670>: Failed to resolve 'www3.pictures.gi.zimbio.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-12-03 23:11:51,208 - INFO - Downloaded 132 for Aaron_Eckhart: failed: ('Connection aborted.', TimeoutError(60, 'Operation timed out'))
+2024-12-03 23:11:52,255 - INFO - Downloaded 134 for Aaron_Eckhart: success
+2024-12-03 23:14:10,315 - INFO - Loading metadata from data/facescrub_actors.txt...
+2024-12-03 23:14:14,942 - INFO - Starting parallel image downloads for data/facescrub_actors.txt...
