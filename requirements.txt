@@ -1,6 +1,12 @@
-#pyspark
+pyspark
 opencv-python
 scikit-learn
 pandas
 matplotlib
 seaborn
+aiohttp
+tqdm
+tensorflow-macos #for mac user
+tensorflow-metal #for mac user
+plotly
+deepface

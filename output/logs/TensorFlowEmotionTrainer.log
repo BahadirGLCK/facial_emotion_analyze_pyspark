@@ -1,0 +1,6 @@
+2024-12-15 16:32:39,106 - INFO - TensorFlow MLP model built successfully.
+2024-12-15 16:41:33,351 - INFO - TensorFlow MLP model built successfully.
+2024-12-15 17:35:42,994 - INFO - Training completed successfully.
+2024-12-15 17:35:45,439 - INFO - Test Accuracy: 0.5117, Test Loss: 1.7105
+2024-12-15 17:35:46,597 - INFO - Metrics plot saved to output/metrics/training_metrics.png
+2024-12-15 17:35:46,924 - INFO - Model saved to output/models/emotion_mlp_classifier.h5
