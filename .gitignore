@@ -1,2 +1,4 @@
-data/*
-**/__pycache__/
+data
+__pycache__
+models
+.DS_Store

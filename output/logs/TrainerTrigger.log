@@ -1,0 +1,335 @@
+2024-12-15 14:40:03,286 - INFO - Loading labeled data...
+2024-12-15 14:50:39,740 - INFO - Loading labeled data...
+2024-12-15 15:05:45,275 - INFO - Loading labeled data...
+2024-12-15 15:05:45,307 - INFO - Processing batch 1
+2024-12-15 15:05:50,416 - INFO - Processing batch 2
+2024-12-15 15:05:54,307 - INFO - Processing batch 3
+2024-12-15 15:05:58,076 - INFO - Processing batch 4
+2024-12-15 15:06:01,571 - INFO - Processing batch 5
+2024-12-15 15:06:05,476 - INFO - Processing batch 6
+2024-12-15 15:06:09,291 - INFO - Processing batch 7
+2024-12-15 15:06:13,319 - INFO - Processing batch 8
+2024-12-15 15:06:17,303 - INFO - Processing batch 9
+2024-12-15 15:06:20,962 - INFO - Processing batch 10
+2024-12-15 15:06:25,078 - INFO - Processing batch 11
+2024-12-15 15:06:29,748 - INFO - Processing batch 12
+2024-12-15 15:06:34,053 - INFO - Processing batch 13
+2024-12-15 15:06:42,968 - INFO - Processing batch 14
+2024-12-15 15:06:46,890 - INFO - Processing batch 15
+2024-12-15 15:06:50,679 - INFO - Processing batch 16
+2024-12-15 15:06:54,642 - INFO - Processing batch 17
+2024-12-15 15:06:58,562 - INFO - Processing batch 18
+2024-12-15 15:07:02,582 - INFO - Processing batch 19
+2024-12-15 15:07:06,434 - INFO - Processing batch 20
+2024-12-15 15:07:10,335 - INFO - Processing batch 21
+2024-12-15 15:07:14,586 - INFO - Processing batch 22
+2024-12-15 15:07:18,492 - INFO - Processing batch 23
+2024-12-15 15:07:22,105 - INFO - Processing batch 24
+2024-12-15 15:07:25,894 - INFO - Processing batch 25
+2024-12-15 15:07:29,866 - INFO - Processing batch 26
+2024-12-15 15:07:33,788 - INFO - Processing batch 27
+2024-12-15 15:07:37,631 - INFO - Processing batch 28
+2024-12-15 15:07:41,725 - INFO - Processing batch 29
+2024-12-15 15:07:45,702 - INFO - Processing batch 30
+2024-12-15 15:07:49,661 - INFO - Processing batch 31
+2024-12-15 15:07:53,684 - INFO - Processing batch 32
+2024-12-15 15:07:57,774 - INFO - Processing batch 33
+2024-12-15 15:08:01,999 - INFO - Processing batch 34
+2024-12-15 15:08:05,892 - INFO - Processing batch 35
+2024-12-15 15:08:09,219 - INFO - Processing batch 36
+2024-12-15 15:08:12,884 - INFO - Processing batch 37
+2024-12-15 15:08:16,878 - INFO - Processing batch 38
+2024-12-15 15:08:35,488 - INFO - Processing batch 39
+2024-12-15 15:08:39,341 - INFO - Processing batch 40
+2024-12-15 15:08:43,426 - INFO - Processing batch 41
+2024-12-15 15:08:47,285 - INFO - Processing batch 42
+2024-12-15 15:08:51,432 - INFO - Processing batch 43
+2024-12-15 15:08:55,821 - INFO - Processing batch 44
+2024-12-15 15:09:00,068 - INFO - Processing batch 45
+2024-12-15 15:09:03,808 - INFO - Processing batch 46
+2024-12-15 15:09:08,428 - INFO - Processing batch 47
+2024-12-15 15:34:49,156 - INFO - Loading labeled data...
+2024-12-15 15:34:49,188 - INFO - Processing batch 1
+2024-12-15 15:34:57,452 - INFO - Batch 1 saved as data/intermediate_batches/batch_1.parquet
+2024-12-15 15:34:57,452 - INFO - Processing batch 2
+2024-12-15 15:35:02,546 - INFO - Batch 2 saved as data/intermediate_batches/batch_2.parquet
+2024-12-15 15:35:02,546 - INFO - Processing batch 3
+2024-12-15 15:35:07,655 - INFO - Batch 3 saved as data/intermediate_batches/batch_3.parquet
+2024-12-15 15:35:07,655 - INFO - Processing batch 4
+2024-12-15 15:35:12,415 - INFO - Batch 4 saved as data/intermediate_batches/batch_4.parquet
+2024-12-15 15:35:12,415 - INFO - Processing batch 5
+2024-12-15 15:35:17,875 - INFO - Batch 5 saved as data/intermediate_batches/batch_5.parquet
+2024-12-15 15:35:17,875 - INFO - Processing batch 6
+2024-12-15 15:35:23,478 - INFO - Batch 6 saved as data/intermediate_batches/batch_6.parquet
+2024-12-15 15:35:23,478 - INFO - Processing batch 7
+2024-12-15 15:35:28,985 - INFO - Batch 7 saved as data/intermediate_batches/batch_7.parquet
+2024-12-15 15:35:28,986 - INFO - Processing batch 8
+2024-12-15 15:35:34,447 - INFO - Batch 8 saved as data/intermediate_batches/batch_8.parquet
+2024-12-15 15:35:34,448 - INFO - Processing batch 9
+2024-12-15 15:35:39,279 - INFO - Batch 9 saved as data/intermediate_batches/batch_9.parquet
+2024-12-15 15:35:39,279 - INFO - Processing batch 10
+2024-12-15 15:35:44,568 - INFO - Batch 10 saved as data/intermediate_batches/batch_10.parquet
+2024-12-15 15:35:44,568 - INFO - Processing batch 11
+2024-12-15 15:35:49,986 - INFO - Batch 11 saved as data/intermediate_batches/batch_11.parquet
+2024-12-15 15:35:49,986 - INFO - Processing batch 12
+2024-12-15 15:35:55,878 - INFO - Batch 12 saved as data/intermediate_batches/batch_12.parquet
+2024-12-15 15:35:55,878 - INFO - Processing batch 13
+2024-12-15 15:36:01,189 - INFO - Batch 13 saved as data/intermediate_batches/batch_13.parquet
+2024-12-15 15:36:01,189 - INFO - Processing batch 14
+2024-12-15 15:36:06,203 - INFO - Batch 14 saved as data/intermediate_batches/batch_14.parquet
+2024-12-15 15:36:06,204 - INFO - Processing batch 15
+2024-12-15 15:36:11,531 - INFO - Batch 15 saved as data/intermediate_batches/batch_15.parquet
+2024-12-15 15:36:11,531 - INFO - Processing batch 16
+2024-12-15 15:36:16,628 - INFO - Batch 16 saved as data/intermediate_batches/batch_16.parquet
+2024-12-15 15:36:16,628 - INFO - Processing batch 17
+2024-12-15 15:36:21,714 - INFO - Batch 17 saved as data/intermediate_batches/batch_17.parquet
+2024-12-15 15:36:21,714 - INFO - Processing batch 18
+2024-12-15 15:36:26,897 - INFO - Batch 18 saved as data/intermediate_batches/batch_18.parquet
+2024-12-15 15:36:26,898 - INFO - Processing batch 19
+2024-12-15 15:36:32,089 - INFO - Batch 19 saved as data/intermediate_batches/batch_19.parquet
+2024-12-15 15:36:32,089 - INFO - Processing batch 20
+2024-12-15 15:36:37,279 - INFO - Batch 20 saved as data/intermediate_batches/batch_20.parquet
+2024-12-15 15:36:37,279 - INFO - Processing batch 21
+2024-12-15 15:36:42,665 - INFO - Batch 21 saved as data/intermediate_batches/batch_21.parquet
+2024-12-15 15:36:42,665 - INFO - Processing batch 22
+2024-12-15 15:36:47,699 - INFO - Batch 22 saved as data/intermediate_batches/batch_22.parquet
+2024-12-15 15:36:47,699 - INFO - Processing batch 23
+2024-12-15 15:36:52,363 - INFO - Batch 23 saved as data/intermediate_batches/batch_23.parquet
+2024-12-15 15:36:52,364 - INFO - Processing batch 24
+2024-12-15 15:36:56,967 - INFO - Batch 24 saved as data/intermediate_batches/batch_24.parquet
+2024-12-15 15:36:56,968 - INFO - Processing batch 25
+2024-12-15 15:37:01,816 - INFO - Batch 25 saved as data/intermediate_batches/batch_25.parquet
+2024-12-15 15:37:01,816 - INFO - Processing batch 26
+2024-12-15 15:37:06,880 - INFO - Batch 26 saved as data/intermediate_batches/batch_26.parquet
+2024-12-15 15:37:06,880 - INFO - Processing batch 27
+2024-12-15 15:37:11,520 - INFO - Batch 27 saved as data/intermediate_batches/batch_27.parquet
+2024-12-15 15:37:11,520 - INFO - Processing batch 28
+2024-12-15 15:37:16,540 - INFO - Batch 28 saved as data/intermediate_batches/batch_28.parquet
+2024-12-15 15:37:16,540 - INFO - Processing batch 29
+2024-12-15 15:41:57,155 - INFO - Loading labeled data...
+2024-12-15 15:41:57,194 - INFO - Processing batch 1
+2024-12-15 15:42:03,185 - INFO - Batch 1 saved as data/intermediate_batches/batch_1.parquet
+2024-12-15 15:42:03,185 - INFO - Processing batch 2
+2024-12-15 15:42:06,152 - INFO - Batch 2 saved as data/intermediate_batches/batch_2.parquet
+2024-12-15 15:42:06,152 - INFO - Processing batch 3
+2024-12-15 15:42:09,529 - INFO - Batch 3 saved as data/intermediate_batches/batch_3.parquet
+2024-12-15 15:42:09,530 - INFO - Processing batch 4
+2024-12-15 15:42:12,089 - INFO - Batch 4 saved as data/intermediate_batches/batch_4.parquet
+2024-12-15 15:42:12,089 - INFO - Processing batch 5
+2024-12-15 15:42:14,560 - INFO - Batch 5 saved as data/intermediate_batches/batch_5.parquet
+2024-12-15 15:42:14,560 - INFO - Processing batch 6
+2024-12-15 15:42:17,224 - INFO - Batch 6 saved as data/intermediate_batches/batch_6.parquet
+2024-12-15 15:42:17,224 - INFO - Processing batch 7
+2024-12-15 15:42:19,405 - INFO - Batch 7 saved as data/intermediate_batches/batch_7.parquet
+2024-12-15 15:42:19,405 - INFO - Processing batch 8
+2024-12-15 15:42:21,905 - INFO - Batch 8 saved as data/intermediate_batches/batch_8.parquet
+2024-12-15 15:42:21,905 - INFO - Processing batch 9
+2024-12-15 15:42:24,505 - INFO - Batch 9 saved as data/intermediate_batches/batch_9.parquet
+2024-12-15 15:42:24,505 - INFO - Processing batch 10
+2024-12-15 15:42:27,046 - INFO - Batch 10 saved as data/intermediate_batches/batch_10.parquet
+2024-12-15 15:42:27,046 - INFO - Processing batch 11
+2024-12-15 15:42:29,400 - INFO - Batch 11 saved as data/intermediate_batches/batch_11.parquet
+2024-12-15 15:42:29,400 - INFO - Processing batch 12
+2024-12-15 15:42:32,024 - INFO - Batch 12 saved as data/intermediate_batches/batch_12.parquet
+2024-12-15 15:42:32,024 - INFO - Processing batch 13
+2024-12-15 15:42:34,681 - INFO - Batch 13 saved as data/intermediate_batches/batch_13.parquet
+2024-12-15 15:42:34,681 - INFO - Processing batch 14
+2024-12-15 15:42:37,300 - INFO - Batch 14 saved as data/intermediate_batches/batch_14.parquet
+2024-12-15 15:42:37,301 - INFO - Processing batch 15
+2024-12-15 15:42:39,907 - INFO - Batch 15 saved as data/intermediate_batches/batch_15.parquet
+2024-12-15 15:42:39,907 - INFO - Processing batch 16
+2024-12-15 15:42:42,587 - INFO - Batch 16 saved as data/intermediate_batches/batch_16.parquet
+2024-12-15 15:42:42,588 - INFO - Processing batch 17
+2024-12-15 15:42:44,824 - INFO - Batch 17 saved as data/intermediate_batches/batch_17.parquet
+2024-12-15 15:42:44,825 - INFO - Processing batch 18
+2024-12-15 15:42:47,356 - INFO - Batch 18 saved as data/intermediate_batches/batch_18.parquet
+2024-12-15 15:42:47,356 - INFO - Processing batch 19
+2024-12-15 15:42:49,979 - INFO - Batch 19 saved as data/intermediate_batches/batch_19.parquet
+2024-12-15 15:42:49,979 - INFO - Processing batch 20
+2024-12-15 15:42:52,540 - INFO - Batch 20 saved as data/intermediate_batches/batch_20.parquet
+2024-12-15 15:42:52,540 - INFO - Processing batch 21
+2024-12-15 15:42:55,448 - INFO - Batch 21 saved as data/intermediate_batches/batch_21.parquet
+2024-12-15 15:42:55,448 - INFO - Processing batch 22
+2024-12-15 15:42:58,022 - INFO - Batch 22 saved as data/intermediate_batches/batch_22.parquet
+2024-12-15 15:42:58,023 - INFO - Processing batch 23
+2024-12-15 15:43:00,554 - INFO - Batch 23 saved as data/intermediate_batches/batch_23.parquet
+2024-12-15 15:43:00,555 - INFO - Processing batch 24
+2024-12-15 15:43:03,267 - INFO - Batch 24 saved as data/intermediate_batches/batch_24.parquet
+2024-12-15 15:43:03,267 - INFO - Processing batch 25
+2024-12-15 15:43:05,844 - INFO - Batch 25 saved as data/intermediate_batches/batch_25.parquet
+2024-12-15 15:43:05,844 - INFO - Processing batch 26
+2024-12-15 15:43:08,429 - INFO - Batch 26 saved as data/intermediate_batches/batch_26.parquet
+2024-12-15 15:43:08,429 - INFO - Processing batch 27
+2024-12-15 15:43:10,819 - INFO - Batch 27 saved as data/intermediate_batches/batch_27.parquet
+2024-12-15 15:43:10,820 - INFO - Processing batch 28
+2024-12-15 15:43:13,303 - INFO - Batch 28 saved as data/intermediate_batches/batch_28.parquet
+2024-12-15 15:43:13,303 - INFO - Processing batch 29
+2024-12-15 15:43:15,781 - INFO - Batch 29 saved as data/intermediate_batches/batch_29.parquet
+2024-12-15 15:43:15,781 - INFO - Processing batch 30
+2024-12-15 15:43:18,353 - INFO - Batch 30 saved as data/intermediate_batches/batch_30.parquet
+2024-12-15 15:43:18,353 - INFO - Processing batch 31
+2024-12-15 15:43:20,871 - INFO - Batch 31 saved as data/intermediate_batches/batch_31.parquet
+2024-12-15 15:43:20,872 - INFO - Processing batch 32
+2024-12-15 15:43:23,486 - INFO - Batch 32 saved as data/intermediate_batches/batch_32.parquet
+2024-12-15 15:43:23,486 - INFO - Processing batch 33
+2024-12-15 15:43:26,180 - INFO - Batch 33 saved as data/intermediate_batches/batch_33.parquet
+2024-12-15 15:43:26,181 - INFO - Processing batch 34
+2024-12-15 15:43:28,562 - INFO - Batch 34 saved as data/intermediate_batches/batch_34.parquet
+2024-12-15 15:43:28,563 - INFO - Processing batch 35
+2024-12-15 15:43:31,223 - INFO - Batch 35 saved as data/intermediate_batches/batch_35.parquet
+2024-12-15 15:43:31,224 - INFO - Processing batch 36
+2024-12-15 15:43:33,778 - INFO - Batch 36 saved as data/intermediate_batches/batch_36.parquet
+2024-12-15 15:43:33,778 - INFO - Processing batch 37
+2024-12-15 15:43:36,052 - INFO - Batch 37 saved as data/intermediate_batches/batch_37.parquet
+2024-12-15 15:43:36,052 - INFO - Processing batch 38
+2024-12-15 15:43:38,637 - INFO - Batch 38 saved as data/intermediate_batches/batch_38.parquet
+2024-12-15 15:43:38,637 - INFO - Processing batch 39
+2024-12-15 15:43:41,099 - INFO - Batch 39 saved as data/intermediate_batches/batch_39.parquet
+2024-12-15 15:43:41,100 - INFO - Processing batch 40
+2024-12-15 15:43:43,576 - INFO - Batch 40 saved as data/intermediate_batches/batch_40.parquet
+2024-12-15 15:43:43,576 - INFO - Processing batch 41
+2024-12-15 15:43:46,098 - INFO - Batch 41 saved as data/intermediate_batches/batch_41.parquet
+2024-12-15 15:43:46,098 - INFO - Processing batch 42
+2024-12-15 15:43:48,848 - INFO - Batch 42 saved as data/intermediate_batches/batch_42.parquet
+2024-12-15 15:43:48,848 - INFO - Processing batch 43
+2024-12-15 15:43:51,735 - INFO - Batch 43 saved as data/intermediate_batches/batch_43.parquet
+2024-12-15 15:43:51,735 - INFO - Processing batch 44
+2024-12-15 15:43:54,228 - INFO - Batch 44 saved as data/intermediate_batches/batch_44.parquet
+2024-12-15 15:43:54,228 - INFO - Processing batch 45
+2024-12-15 15:43:56,702 - INFO - Batch 45 saved as data/intermediate_batches/batch_45.parquet
+2024-12-15 15:43:56,702 - INFO - Processing batch 46
+2024-12-15 15:43:58,828 - INFO - Batch 46 saved as data/intermediate_batches/batch_46.parquet
+2024-12-15 15:43:58,828 - INFO - Processing batch 47
+2024-12-15 15:44:01,318 - INFO - Batch 47 saved as data/intermediate_batches/batch_47.parquet
+2024-12-15 15:44:01,319 - INFO - Processing batch 48
+2024-12-15 15:44:03,524 - INFO - Batch 48 saved as data/intermediate_batches/batch_48.parquet
+2024-12-15 15:44:03,525 - INFO - Processing batch 49
+2024-12-15 15:44:06,110 - INFO - Batch 49 saved as data/intermediate_batches/batch_49.parquet
+2024-12-15 15:44:06,110 - INFO - Processing batch 50
+2024-12-15 15:44:08,473 - INFO - Batch 50 saved as data/intermediate_batches/batch_50.parquet
+2024-12-15 15:44:08,473 - INFO - Processing batch 51
+2024-12-15 15:44:11,026 - INFO - Batch 51 saved as data/intermediate_batches/batch_51.parquet
+2024-12-15 15:44:11,026 - INFO - Processing batch 52
+2024-12-15 15:44:13,385 - INFO - Batch 52 saved as data/intermediate_batches/batch_52.parquet
+2024-12-15 15:44:13,385 - INFO - Processing batch 53
+2024-12-15 15:44:15,591 - INFO - Batch 53 saved as data/intermediate_batches/batch_53.parquet
+2024-12-15 15:44:15,591 - INFO - Processing batch 54
+2024-12-15 15:44:18,053 - INFO - Batch 54 saved as data/intermediate_batches/batch_54.parquet
+2024-12-15 15:44:18,053 - INFO - Processing batch 55
+2024-12-15 15:44:20,562 - INFO - Batch 55 saved as data/intermediate_batches/batch_55.parquet
+2024-12-15 15:44:20,562 - INFO - Processing batch 56
+2024-12-15 15:44:23,239 - INFO - Batch 56 saved as data/intermediate_batches/batch_56.parquet
+2024-12-15 15:44:23,240 - INFO - Processing batch 57
+2024-12-15 15:44:25,667 - INFO - Batch 57 saved as data/intermediate_batches/batch_57.parquet
+2024-12-15 15:44:25,667 - INFO - Processing batch 58
+2024-12-15 15:44:28,126 - INFO - Batch 58 saved as data/intermediate_batches/batch_58.parquet
+2024-12-15 15:44:28,126 - INFO - Processing batch 59
+2024-12-15 15:44:30,528 - INFO - Batch 59 saved as data/intermediate_batches/batch_59.parquet
+2024-12-15 15:44:30,528 - INFO - Processing batch 60
+2024-12-15 15:44:32,967 - INFO - Batch 60 saved as data/intermediate_batches/batch_60.parquet
+2024-12-15 15:44:32,968 - INFO - Processing batch 61
+2024-12-15 15:44:35,621 - INFO - Batch 61 saved as data/intermediate_batches/batch_61.parquet
+2024-12-15 15:44:35,621 - INFO - Processing batch 62
+2024-12-15 15:44:37,951 - INFO - Batch 62 saved as data/intermediate_batches/batch_62.parquet
+2024-12-15 15:44:37,951 - INFO - Processing batch 63
+2024-12-15 15:44:40,494 - INFO - Batch 63 saved as data/intermediate_batches/batch_63.parquet
+2024-12-15 15:44:40,494 - INFO - Processing batch 64
+2024-12-15 15:44:43,038 - INFO - Batch 64 saved as data/intermediate_batches/batch_64.parquet
+2024-12-15 15:44:43,038 - INFO - Processing batch 65
+2024-12-15 15:44:45,604 - INFO - Batch 65 saved as data/intermediate_batches/batch_65.parquet
+2024-12-15 15:44:45,604 - INFO - Processing batch 66
+2024-12-15 15:44:48,203 - INFO - Batch 66 saved as data/intermediate_batches/batch_66.parquet
+2024-12-15 15:44:48,203 - INFO - Processing batch 67
+2024-12-15 15:44:50,648 - INFO - Batch 67 saved as data/intermediate_batches/batch_67.parquet
+2024-12-15 15:44:50,649 - INFO - Processing batch 68
+2024-12-15 15:44:52,856 - INFO - Batch 68 saved as data/intermediate_batches/batch_68.parquet
+2024-12-15 15:44:52,856 - INFO - Processing batch 69
+2024-12-15 15:44:55,313 - INFO - Batch 69 saved as data/intermediate_batches/batch_69.parquet
+2024-12-15 15:44:55,313 - INFO - Processing batch 70
+2024-12-15 15:44:57,011 - INFO - Batch 70 saved as data/intermediate_batches/batch_70.parquet
+2024-12-15 15:44:57,012 - INFO - Processing batch 71
+2024-12-15 15:44:59,282 - INFO - Batch 71 saved as data/intermediate_batches/batch_71.parquet
+2024-12-15 15:44:59,282 - INFO - Processing batch 72
+2024-12-15 15:45:01,593 - INFO - Batch 72 saved as data/intermediate_batches/batch_72.parquet
+2024-12-15 15:45:01,593 - INFO - Processing batch 73
+2024-12-15 15:45:04,020 - INFO - Batch 73 saved as data/intermediate_batches/batch_73.parquet
+2024-12-15 15:45:04,021 - INFO - Processing batch 74
+2024-12-15 15:45:06,749 - INFO - Batch 74 saved as data/intermediate_batches/batch_74.parquet
+2024-12-15 15:45:06,749 - INFO - Processing batch 75
+2024-12-15 15:45:09,306 - INFO - Batch 75 saved as data/intermediate_batches/batch_75.parquet
+2024-12-15 15:45:09,307 - INFO - Processing batch 76
+2024-12-15 15:45:11,863 - INFO - Batch 76 saved as data/intermediate_batches/batch_76.parquet
+2024-12-15 15:45:11,863 - INFO - Processing batch 77
+2024-12-15 15:45:14,279 - INFO - Batch 77 saved as data/intermediate_batches/batch_77.parquet
+2024-12-15 15:45:14,279 - INFO - Processing batch 78
+2024-12-15 15:45:16,695 - INFO - Batch 78 saved as data/intermediate_batches/batch_78.parquet
+2024-12-15 15:45:16,695 - INFO - Processing batch 79
+2024-12-15 15:45:19,323 - INFO - Batch 79 saved as data/intermediate_batches/batch_79.parquet
+2024-12-15 15:45:19,323 - INFO - Processing batch 80
+2024-12-15 15:45:21,747 - INFO - Batch 80 saved as data/intermediate_batches/batch_80.parquet
+2024-12-15 15:45:21,748 - INFO - Processing batch 81
+2024-12-15 15:45:24,099 - INFO - Batch 81 saved as data/intermediate_batches/batch_81.parquet
+2024-12-15 15:45:24,099 - INFO - Processing batch 82
+2024-12-15 15:45:26,506 - INFO - Batch 82 saved as data/intermediate_batches/batch_82.parquet
+2024-12-15 15:45:26,507 - INFO - Processing batch 83
+2024-12-15 15:45:29,171 - INFO - Batch 83 saved as data/intermediate_batches/batch_83.parquet
+2024-12-15 15:45:29,171 - INFO - Processing batch 84
+2024-12-15 15:45:31,742 - INFO - Batch 84 saved as data/intermediate_batches/batch_84.parquet
+2024-12-15 15:45:31,742 - INFO - Processing batch 85
+2024-12-15 15:45:34,385 - INFO - Batch 85 saved as data/intermediate_batches/batch_85.parquet
+2024-12-15 15:45:34,385 - INFO - Processing batch 86
+2024-12-15 15:45:36,942 - INFO - Batch 86 saved as data/intermediate_batches/batch_86.parquet
+2024-12-15 15:45:36,942 - INFO - Processing batch 87
+2024-12-15 15:45:39,526 - INFO - Batch 87 saved as data/intermediate_batches/batch_87.parquet
+2024-12-15 15:45:39,526 - INFO - Processing batch 88
+2024-12-15 15:45:41,996 - INFO - Batch 88 saved as data/intermediate_batches/batch_88.parquet
+2024-12-15 15:45:41,996 - INFO - Processing batch 89
+2024-12-15 15:45:44,314 - INFO - Batch 89 saved as data/intermediate_batches/batch_89.parquet
+2024-12-15 15:45:44,314 - INFO - Processing batch 90
+2024-12-15 15:45:46,712 - INFO - Batch 90 saved as data/intermediate_batches/batch_90.parquet
+2024-12-15 15:45:46,712 - INFO - Processing batch 91
+2024-12-15 15:45:49,473 - INFO - Batch 91 saved as data/intermediate_batches/batch_91.parquet
+2024-12-15 15:45:49,473 - INFO - Processing batch 92
+2024-12-15 15:45:51,966 - INFO - Batch 92 saved as data/intermediate_batches/batch_92.parquet
+2024-12-15 15:45:51,966 - INFO - Processing batch 93
+2024-12-15 15:45:54,591 - INFO - Batch 93 saved as data/intermediate_batches/batch_93.parquet
+2024-12-15 15:45:54,591 - INFO - Processing batch 94
+2024-12-15 15:45:56,922 - INFO - Batch 94 saved as data/intermediate_batches/batch_94.parquet
+2024-12-15 15:45:56,923 - INFO - Processing batch 95
+2024-12-15 15:45:59,702 - INFO - Batch 95 saved as data/intermediate_batches/batch_95.parquet
+2024-12-15 15:45:59,702 - INFO - Processing batch 96
+2024-12-15 15:46:02,183 - INFO - Batch 96 saved as data/intermediate_batches/batch_96.parquet
+2024-12-15 15:46:02,183 - INFO - Processing batch 97
+2024-12-15 15:46:04,810 - INFO - Batch 97 saved as data/intermediate_batches/batch_97.parquet
+2024-12-15 15:46:04,811 - INFO - Processing batch 98
+2024-12-15 15:46:07,311 - INFO - Batch 98 saved as data/intermediate_batches/batch_98.parquet
+2024-12-15 15:46:07,312 - INFO - Processing batch 99
+2024-12-15 15:46:09,972 - INFO - Batch 99 saved as data/intermediate_batches/batch_99.parquet
+2024-12-15 15:46:09,972 - INFO - Processing batch 100
+2024-12-15 15:46:12,112 - INFO - Batch 100 saved as data/intermediate_batches/batch_100.parquet
+2024-12-15 15:46:12,112 - INFO - All batches processed and saved successfully!
+2024-12-15 15:46:12,112 - INFO - Loading all batches from Parquet files...
+2024-12-15 15:49:07,570 - INFO - Loading labeled data...
+2024-12-15 15:49:07,605 - INFO - Loading all batches from Parquet files...
+2024-12-15 15:49:09,720 - INFO - All batches loaded successfully!
+2024-12-15 15:49:10,608 - INFO - Training the classifier...
+2024-12-15 15:56:05,092 - INFO - Loading labeled data...
+2024-12-15 15:56:05,124 - INFO - Loading all batches from Parquet files...
+2024-12-15 15:56:06,998 - INFO - All batches loaded successfully!
+2024-12-15 15:56:07,951 - INFO - Training the classifier...
+2024-12-15 15:57:04,526 - INFO - Loading labeled data...
+2024-12-15 15:57:04,563 - INFO - Loading all batches from Parquet files...
+2024-12-15 15:57:07,195 - INFO - All batches loaded successfully!
+2024-12-15 16:00:58,956 - INFO - Training the classifier...
+2024-12-15 16:01:04,282 - INFO - Loading labeled data...
+2024-12-15 16:01:04,316 - INFO - Loading all batches from Parquet files...
+2024-12-15 16:01:06,485 - INFO - All batches loaded successfully!
+2024-12-15 16:02:01,564 - INFO - Loading labeled data...
+2024-12-15 16:02:01,597 - INFO - Loading all batches from Parquet files...
+2024-12-15 16:02:04,102 - INFO - All batches loaded successfully! Total rows: 0
+2024-12-15 16:06:15,490 - INFO - Loading labeled data...
+2024-12-15 16:06:15,523 - INFO - Loading all batches from Parquet files...
+2024-12-15 16:06:19,117 - INFO - All batches loaded successfully! Total rows: 36204
+2024-12-15 16:07:15,660 - INFO - Loading labeled data...
+2024-12-15 16:07:15,691 - INFO - Loading all batches from Parquet files...
+2024-12-15 16:07:19,003 - INFO - All batches loaded successfully! Total rows: 36204
